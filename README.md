@@ -1,6 +1,6 @@
 # exam_safe
 
-A new Flutter project.
+This is a Flutter app using Moodle Web as LMS to take online exams and Agora IO Sdk for monitoring over video call. Firabase realtime database is used as backend of this app.
 
 ## Getting Started
 
