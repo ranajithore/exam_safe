@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="432.041" height="418.299" viewBox="0 0 432.041 418.299">
+  <defs>
+    <filter id="Path_2" x="0" y="16.55" width="432.041" height="401.749" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_3" x="0" y="0" width="432.041" height="392.576" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_4" data-name="Group 4" transform="translate(9.041 5.55)">
+    <g id="Group_3" data-name="Group 3" transform="translate(0 5)">
+      <g transform="matrix(1, 0, 0, 1, -9.04, -10.55)" filter="url(#Path_2)">
+        <path id="Path_2-2" data-name="Path 2" d="M-3.521-1.76s62.892,222.3,162.472,308.074,251.569,75.268,251.569,75.268V-1.76Z" transform="translate(12.52 24.31)" fill="#3bd4c4"/>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, -9.04, -10.55)" filter="url(#Path_3)">
+        <path id="Path_3-2" data-name="Path 3" d="M0,692.286c53.213,100.692,128.741,93.178,169.938,66.126S218,638.182,218,638.182c0-25.549,6.866-46.589,48.063-45.086s65.658-7.139,94.41-22.543c13.916-7.456,45.932-28.04,53.2-37.383.823-10.349,0-131.818,0-131.818H0Z" transform="translate(9 -395.35)" fill="#544747"/>
+      </g>
+      <path id="Path_1" data-name="Path 1" d="M0,145.792c75.91,2.817,89.405-50.71,89.405-50.71S97.84,59.867,145.073,48.6c52.294-8.452,52.294,1.409,111.335-12.678S326.849-3.521,326.849-3.521H0Z" transform="translate(0.487 -1.479)" fill="#fb9d4a"/>
+      <text id="Welcome" transform="translate(8 199)" fill="#f8efef" font-size="50" font-family="ComicSansMS-Bold, Comic Sans MS" font-weight="700"><tspan x="0" y="0">Welcome</tspan></text>
+    </g>
+  </g>
+</svg>

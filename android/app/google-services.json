@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "321440163184",
+    "firebase_url": "https://exam-safe.firebaseio.com",
+    "project_id": "exam-safe",
+    "storage_bucket": "exam-safe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:321440163184:android:9edcfe861a5584a2a1dbb5",
+        "android_client_info": {
+          "package_name": "com.ranajit.hore.exam_safe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "321440163184-4jp50e1i48a773tv8en0khcb3853rcp4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBH8PLqRNK_U5M8mzFkqiSLjpccL9HIxiI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "321440163184-4jp50e1i48a773tv8en0khcb3853rcp4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
